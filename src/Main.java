@@ -9,7 +9,7 @@ public class Main {
         System.out.println("1: Operators");//
         System.out.println("1: if else");//
         System.out.println("1: switch");//
-        System.out.println("1: for loop");
+        System.out.println("1: for loop");//
         System.out.println("1: while loop");
         System.out.println("1: do while");
         System.out.println("1: Functions");
