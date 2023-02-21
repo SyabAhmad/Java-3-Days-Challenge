@@ -6,23 +6,23 @@ Java 3 Days Journey
 
 We will cover all these topics 1 by 1
 
-1: Hello World Program
+          1: Hello World Program
 
-1: Variables
+          2: Variables
 
-1: DataTypes
+          3: DataTypes
 
-1: Operators
+          4: Operators
 
-1: if else
+          5: if else
 
-1: switch
+          6: switch
 
-1: for loop
+          7: for loop
 
-1: while loop
+          8: while loop
 
-1: do while
+          9: do while
 
 1: Functions
 
