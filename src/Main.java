@@ -12,12 +12,12 @@ public class Main {
         System.out.println("1: for loop");//
         System.out.println("1: while loop");//
         System.out.println("1: do while");//
-        System.out.println("1: Functions");
-        System.out.println("1: classes");
-        System.out.println("1: inheritance");
-        System.out.println("1: polymorphic inheritance");
-        System.out.println("1: abstraction");
-        System.out.println("1: interfaces");
+        System.out.println("1: Methods");//
+        System.out.println("1: classes");//
+        System.out.println("1: inheritance");//
+        System.out.println("1: polymorphic inheritance");//
+        System.out.println("1: abstraction");//
+        System.out.println("1: interfaces");//
         System.out.println("1: Arrays");
         System.out.println("1: List");
         System.out.println("1: LinkedList");
@@ -29,10 +29,10 @@ public class Main {
         System.out.println("1: insertion");
         System.out.println("1: deletion");
         System.out.println("1: new keyword");
-        System.out.println("1: this keyword");
-        System.out.println("1: constructor");
-        System.out.println("1: return keyword");
-        System.out.println("1: default keyword");
+        System.out.println("1: this keyword");//
+        System.out.println("1: constructor");//
+        System.out.println("1: return keyword");//
+        System.out.println("1: default keyword");//
         System.out.println("1: break keyword");
         System.out.println("1: continue keyword");
         System.out.println("1: ");
