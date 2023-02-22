@@ -4,7 +4,7 @@ public class Main {
         System.out.println("Java 3 Days Journey ");
         System.out.println("We will cover all these topics 1 by 1");
         System.out.println("1: Hello World Program");//
-        System.out.println("1: Variables");//
+        System.out.println("1: Variables");////
         System.out.println("1: DataTypes");//
         System.out.println("1: Operators");//
         System.out.println("1: if else");//
