@@ -24,17 +24,17 @@ We will cover all these topics 1 by 1
 
           9: do while
 
-1: Functions
+          9: 1: Functions
 
-1: classes
+          10: classes
 
-1: inheritance
+          11: inheritance
 
-1: polymorphic inheritance
+          12: polymorphic inheritance
 
-1: abstraction
+          13: abstraction
 
-1: interfaces
+          14: interfaces
 
 1: Arrays
 
@@ -56,15 +56,15 @@ We will cover all these topics 1 by 1
 
 1: deletion
 
-1: new keyword
+          25: new keyword
 
-1: this keyword
+          26: this keyword
 
-1: constructor
+          27: constructor
 
-1: return keyword
+          28: return keyword
 
-1: default keyword
+          29: default keyword
 
 1: break keyword
 
